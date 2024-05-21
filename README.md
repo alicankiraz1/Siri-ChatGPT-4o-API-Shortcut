@@ -2,8 +2,8 @@
 <img src="https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/blob/main/Neptunev1.0.png" width="400" height="400">
 Neptune has two versions, Turkish and English. Designed using the Apple Shortcuts app.
 
-Turkish Shortcuts : 
-English Shortcuts : 
+Turkish Shortcuts : [Hadi Güçlen.shortcut] (https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/blob/main/Summon%20the%20force.shortcut)
+English Shortcuts : [Summon the force.shortcut] (https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/blob/main/Summon%20the%20force.shortcut)
 
 ## API Key Edit
 
