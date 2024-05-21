@@ -3,7 +3,7 @@
 
 Neptune has two versions, Turkish and English. Designed using the Apple Shortcuts app.
 
-Turkish Shortcuts : [Hadi Güçlen](https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/raw/main/Summon%20the%20force.shortcut)
+Turkish Shortcuts : [Hadi Güçlen](https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/raw/main/Hadi%20Gu%CC%88c%CC%A7len.shortcut)
 
 English Shortcuts : [Summon the force](https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/raw/main/Summon%20the%20force.shortcut)
 
@@ -11,7 +11,7 @@ English Shortcuts : [Summon the force](https://github.com/alicankiraz1/Siri-Chat
 
 If you go to Neptune's shortcuts edit and add your ChatGPT API Key to the Your-API-Key section, it will work directly.
 
-<img src="https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/blob/main/API_Key_Edit.gif" width="640" height="960" >
+<img src="https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/blob/main/PoC.gif" width="640" height="960" >
 
 
 ## Usage
