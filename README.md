@@ -1,5 +1,5 @@
 # Neptune
-<img src="https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/blob/main/Neptunev1.0.png" width="400" height="790">
+<img src="https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/blob/main/Neptunev1.0.png" width="400" height="400">
 Neptune has two versions, Turkish and English. Designed using the Apple Shortcuts app.
 
 Turkish Shortcuts : 
