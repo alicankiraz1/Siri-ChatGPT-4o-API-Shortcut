@@ -11,8 +11,6 @@ English Shortcuts : [Summon the force](https://github.com/alicankiraz1/Siri-Chat
 
 If you go to Neptune's shortcuts edit and add your ChatGPT API Key to the Your-API-Key section, it will work directly.
 
-<img src="https://github.com/alicankiraz1/Siri-ChatGPT-4o-API-Shortcut/blob/main/PoC.gif" alt="gif" width="640" height="960">
-
 
 ## Usage
 
