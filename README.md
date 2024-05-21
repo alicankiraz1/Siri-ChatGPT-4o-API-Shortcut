@@ -6,11 +6,11 @@ Neptune has two versions, Turkish and English. Designed using the Apple Shortcut
 Turkish Shortcuts : 
 English Shortcuts : 
 
-##API Key Edit
+## API Key Edit
 
 If you go to Neptune's shortcuts edit and add your ChatGPT API Key to the Your-API-Key section, it will work directly.
 
-##Usage
+## Usage
 
 "Hey Siri!" after the command "Summon the power!" It will be activated when you say the command. Classic will not close at once like other Chat-GPT compatibility. After your first question, "Are there any other problems?" It will ask the question. Depending on the yes answer to your question, it will listen to your new question without interruption.
 
