@@ -11,6 +11,7 @@ English Shortcuts : [Summon the force](https://github.com/alicankiraz1/Siri-Chat
 
 If you go to Neptune's shortcuts edit and add your ChatGPT API Key to the Your-API-Key section, it will work directly.
 
+Note: You cannot use API Key with ChatGPT Plus subscription. You must add fees to your OpenAI wallet to use the API Key.
 
 ## Usage
 
